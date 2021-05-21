@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://www.crucial.com",
+  "video": false,
+  "defaultCommandTimeout": 100000,
+  "pageLoadTimeout": 100000,
+  "waitForAnimations": true,
+  "theme": "dark",
+  "projectId": "akq477"
+}
