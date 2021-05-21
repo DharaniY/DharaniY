@@ -20,7 +20,7 @@ describe('Visual Regression - Login Page', () => {
     cy.setResolution('iphone-6')
     cy.matchImageSnapshot()
   })
-``
+
   it('Mobile Layout', () => {
     cy.setResolution('ipad-2')
     cy.matchImageSnapshot()
